@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.cell {
+  width: 80px;
+  height: 80px;
+  border: 7px solid black;
+}
+.player {
+  background-image: url("/nirmalas.png");
+  background-size: cover;
+}
+
+.coin {
+  background-image: url("/coin(1).png");
+  background-size: cover;
+}

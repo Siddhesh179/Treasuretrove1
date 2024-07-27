@@ -1,0 +1,27 @@
+.startgame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #555555;
+  font-size: 65px;
+  user-select: none;
+}
+.title {
+  margin-top: 200px;
+}
+
+.startbutton {
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.startbutton:hover {
+  background-color: darkgray;
+}

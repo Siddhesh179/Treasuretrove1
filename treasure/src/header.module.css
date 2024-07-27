@@ -1,9 +1,21 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #00aeef;
-    height: 50px;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #cdd7d6;
+  height: 65px;
+  font-family: "Georgia", "sans-serif";
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+.details {
+  display: flex;
+  font-size: 40px;
+  gap: 70px;
+  margin-top:3px;
+  margin-bottom:7px;
+}
+.time{
+    margin-top:4px;
+}
