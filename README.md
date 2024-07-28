@@ -19,6 +19,7 @@ TreasureTrove is a computer-vision based game developed by us. In this game, you
 ## Demo link 
 demo link1-https://youtu.be/hCff8EsjM7U
 Demo link2-https://youtube.com/shorts/rrSmuFuDu4U?feature=share
+combined demo- https://www.youtube.com/watch?v=ad1QkdlZ0J4
 ## Installation
 To install the game, follow these steps:
 
