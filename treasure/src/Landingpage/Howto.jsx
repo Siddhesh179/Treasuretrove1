@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './howto.module.css';
-
+//Component describing the rules of the game
 const Howto = ({ onClose }) => {
   return (
     <div className={styles.overlay}>

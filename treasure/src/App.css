@@ -12,11 +12,11 @@
   border: 7px solid black;
 }
 .player {
-  background-image: url("/nirmalas.png");
+  background-image: url("C:\Users\Siddh\OneDrive\Desktop\TT\Treasuretrove1\treasure\public\assets\nirmalas.png");
   background-size: cover;
 }
 
 .coin {
-  background-image: url("/coin(1).png");
+  background-image: url("C:\Users\Siddh\OneDrive\Desktop\TT\Treasuretrove1\treasure\public\assets\coin(1).png");
   background-size: cover;
 }

@@ -1,9 +1,8 @@
-// src/StartGame.js
 import React from "react";
 import { Link } from "react-router-dom";
 import style from "./startgame.module.css";
 import Howto from "./Howto.jsx";
-
+//Landing page
 const StartGame = ({ resetScore }) => {
   return (
     <div className={style.container}>

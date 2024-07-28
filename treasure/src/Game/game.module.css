@@ -1,13 +1,14 @@
 body {
   background-color: #ffead0;
   user-select: none;
+  overflow: hidden;
 }
 .grd {
   margin-left: 450px;
   margin-top: 60px;
 }
-.grd .grid{
-    margin-left:40px;
+.grd .grid {
+  margin-left: 40px;
 }
 .row {
   display: flex;
@@ -15,7 +16,7 @@ body {
 .container {
   display: flex;
 }
-.title{
-    margin-right: 400px;
-    font-size:30px;
+.title {
+  margin-right: 400px;
+  font-size: 30px;
 }
