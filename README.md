@@ -77,8 +77,3 @@ We welcome contributions! To contribute, follow these steps:
 ## License
 [MIT License](./LICENSE)
 
-## Contact
-For any inquiries or feedback, please contact us at:
-- Email: [siddhesh8@outlook.com](mailto:email@example.com)
-
-Enjoy the game!
