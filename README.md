@@ -16,7 +16,9 @@ Welcome to Treasure Trove! This is a fun game to kill your boredom.
 
 ## Game Description
 TreasureTrove is a computer-vision based game developed by us. In this game, your camera will be detecting your movements in real-time which will then be detected and executed in the game enabling you to collect coins in a stipulated amount of time. Compete with your friends by making it to the top of leaderboard to make it more enganging,challenging and fun!
-
+## Demo link 
+demo link1-https://youtu.be/hCff8EsjM7U
+Demo link2-https://youtube.com/shorts/rrSmuFuDu4U?feature=share
 ## Installation
 To install the game, follow these steps:
 
